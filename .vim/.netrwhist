@@ -1,0 +1,10 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =8
+let g:netrw_dirhist_1='/Users/chrisprobert'
+let g:netrw_dirhist_2='/Users/chrisprobert/domo-repos/AmazonS3/src/main/java/com/domo/connector/amazons3/api'
+let g:netrw_dirhist_3='/Users/chrisprobert/domo-repos/AmazonS3/src/main/java/com/domo/connector/amazons3/api/util'
+let g:netrw_dirhist_4='/Users/chrisprobert/domo-repos/AmazonS3/src/main/java/com/domo/connector/amazons3/api'
+let g:netrw_dirhist_5='/Users/chrisprobert/domo-repos/AmazonS3/src/main/java/com/domo/connector/amazons3'
+let g:netrw_dirhist_6='/Users/chrisprobert'
+let g:netrw_dirhist_7='/Users/chrisprobert/.vim'
+let g:netrw_dirhist_8='/Users/chrisprobert/.vim/colors'
